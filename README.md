@@ -10,16 +10,14 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+  <strong><a href="https://space.bilibili.com/7749032">BILIBILI</a></strong> |
+  <strong><a href="http://wpa.qq.com/msgrd?v=3&uin=365627310&site=qq&menu=yes">QQ</a></strong> |
+  <strong><a href="mailto:365627310@qq.com">EMAIL</a></strong> 
 </p>
 
 <p align="center">❤ 欢迎\Welcome\こんにちは</p>
 
 <p align="center">弱冠 之年</p>
 
-
+<p align="right">全网同名：乐云一；游戏废宅，速来🤺</p>
 
