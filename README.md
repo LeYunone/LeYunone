@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.leyuna.xyz">LeYuna</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">A passionate backend developer from China
+</h1>
 
 <p align="center">
   <a href="https://github.com/LeYunone"><img src="https://github-readme-stats.vercel.app/api?username=LeYunone&hide_border=true&show_icons=true" alt="LeYunone's github stats"></a>
