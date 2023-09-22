@@ -15,7 +15,7 @@
   <strong><a href="http://wpa.qq.com/msgrd?v=3&uin=365627310&site=qq&menu=yes">QQ</a></strong> |
   <strong><a href="mailto:365627310@qq.com">EMAIL</a></strong> 
 </p>
-
+ 
 <p align="center">❤ 欢迎\Welcome\こんにちは</p>
 
 <p align="center">弱冠 之年</p>
