@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LeYunone"><img src="https://github-readme-stats.vercel.app/api?username=LeYunone&hide_border=true&show_icons=true" alt="LeYunone's github stats"></a>
+  <img src="https://raw.githubusercontent.com/leyunone/leyunone/output/github-contribution-grid-snake.svg">
 </p>
  
 <p align="center">
